@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Привет мир! ");
         task1();
         task2();
         task3();
